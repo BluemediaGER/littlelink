@@ -167,3 +167,13 @@ button:hover,
 .button.button-wordpress:focus {
   filter: brightness(90%);
 }
+
+/* Last.fm */
+.button.button-lastfm {
+  color: #ffffff;
+  background-color: #ba0400;
+}
+.button.button-lastfm:hover,
+.button.button-lastfm:focus {
+  filter: brightness(90%);
+}
