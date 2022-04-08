@@ -3,6 +3,12 @@ h1 {
   line-height: 1.25;
 }
 
+@media screen and (min-width: 700px) {
+  #mobile-textwrap {
+    display: none;
+  }
+}
+
 #logo {
   width: 150px;
   height: 150px;
