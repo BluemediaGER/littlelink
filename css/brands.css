@@ -178,12 +178,12 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Last.fm */
-.button.button-lastfm {
+/* Stats.fm */
+.button.button-statsfm {
   color: #ffffff;
-  background-color: #ba0400;
+  background-color: #000000;
 }
-.button.button-lastfm:hover,
-.button.button-lastfm:focus {
+.button.button-statsfm:hover,
+.button.button-statsfm:focus {
   filter: brightness(90%);
 }
