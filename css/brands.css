@@ -128,16 +128,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Mixcloud */
-.button.button-mixcloud {
-  color: #ffffff;
-  background-color: #4d00ff;
-}
-.button.button-mixcloud:hover,
-.button.button-mixcloud:focus {
-  filter: brightness(90%);
-}
-
 /* Reddit */
 .button.button-reddit {
   color: #000000;
