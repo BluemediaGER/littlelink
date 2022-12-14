@@ -158,16 +158,6 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Twitter */
-.button.button-twit {
-  color: #ffffff;
-  background-color: #1da1f2;
-}
-.button.button-twit:hover,
-.button.button-twit:focus {
-  filter: brightness(90%);
-}
-
 /* Wordpress */
 .button.button-wordpress {
   color: #ffffff;
